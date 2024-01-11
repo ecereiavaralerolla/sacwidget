@@ -12,7 +12,7 @@
         {
             "kind": "main",
             "tag": "github-sap-funnel-chart",
-            "url": "/funnelchart.js",
+            "url": "https://raw.githubusercontent.com/ecereiavaralerolla/sacwidget/main/funnelchart.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
